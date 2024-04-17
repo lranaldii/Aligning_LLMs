@@ -2,6 +2,10 @@
 Repository of the paper Aligning Large Language Models via Chain-of-Thought Reasoning
 
 
+<p align="center">
+<img src="aligning.png" width="300">
+</p>
+
 ## Citation
 ```
 @inproceedings{ranaldi-freitas-2024-aligning,
