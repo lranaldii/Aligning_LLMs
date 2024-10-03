@@ -1,7 +1,7 @@
-# Aligning_LLMs
-Repository of the papers
+# Aligning Large Language Models
+Repository of the papers:
 
-##Aligning Large Language Models via Chain-of-Thought Reasoning (EACL2024)
+## Aligning Large Language Models via Chain-of-Thought Reasoning (EACL2024)
 
 ## Citation
 ```
@@ -22,7 +22,7 @@ Repository of the papers
 }
 ```
 
-##Self-Refine Instruction-Tuning for Aligning Reasoning in Language Models (EMNLP2024)
+## Self-Refine Instruction-Tuning for Aligning Reasoning in Language Models (EMNLP2024)
 
 ## Citation
 ```
